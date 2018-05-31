@@ -1,0 +1,7 @@
+com\kgisl\strnsestock\demostock\PortfolioController.class
+com\kgisl\strnsestock\demostock\PortfolioRepository.class
+com\kgisl\strnsestock\demostock\PortfolioService.class
+com\kgisl\strnsestock\demostock\DemostockApplication.class
+com\kgisl\strnsestock\demostock\PortfolioServiceImp.class
+com\kgisl\strnsestock\demostock\SwaggerConfig.class
+com\kgisl\strnsestock\demostock\Portfolio.class
